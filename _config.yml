@@ -10,7 +10,7 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://wusihq.github.io/wusi-static/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
@@ -19,4 +19,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/wusiHQ/wusi-static
