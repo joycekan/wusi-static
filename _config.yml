@@ -6,15 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Wusi Static
-tagline:          The Static Files
-url:              http://getpoole.com
+title:            无私轻生活
+tagline:          在线客服
+url:              http://static.wusi.com
 paginate:         1
 baseurl:          http://wusihq.github.io/wusi-static/
+icp:			  ICP-02394102
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Christopher Yeung
+  url:            https://wusi.com
+  email:          tech@wusi.com
 
 # Custom vars
 version:          1.0.0
